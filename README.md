@@ -4,7 +4,7 @@ A real-time, side-by-side comparison tool for foundation models, powered by [Ana
 
 Type a prompt, select your models, and watch them race with live latency, token usage, and throughput metrics for each response.
 
-![Arena Demo](images/screenshot.png)
+![Arena Demo](images/screenshot_ui.png)
 
 ## Why This Exists
 
